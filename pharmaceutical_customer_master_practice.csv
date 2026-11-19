@@ -1,0 +1,21 @@
+Customer_ID,Customer_Name,Customer_Type,City,Customer_Segment
+CUST-001,Nordic Care ApS,Pharmacy,Copenhagen,Retail
+CUST-002,Copenhagen Health Group,Hospital,Aarhus,Healthcare
+CUST-003,Aarhus Medical Supply,Wholesaler,Odense,Wholesale
+CUST-005,Aalborg Pharma Center,Hospital,Esbjerg,Healthcare
+CUST-006,Esbjerg Health Services,Wholesaler,Copenhagen,Wholesale
+CUST-007,Zealand Care Partners,Pharmacy,Aarhus,Retail
+CUST-008,Jutland Medical Hub,Hospital,Odense,Healthcare
+CUST-009,NorthCare Pharmacy,Wholesaler,Aalborg,Retail
+CUST-010,Central Health ApS,Pharmacy,Esbjerg,Wholesale
+CUST-011,Fyn Medical Supplies,Hospital,Copenhagen,Healthcare
+CUST-012,Capital Wellness Group,Wholesaler,Aarhus,Retail
+CUST-013,Viking Pharma Services,Pharmacy,Odense,Wholesale
+CUST-014,Blue Harbor Clinic,Hospital,Aalborg,Healthcare
+CUST-015,Green Cross Health,Wholesaler,Esbjerg,Retail
+CUST-016,Danish Care Network,Pharmacy,Copenhagen,Wholesale
+CUST-018,Westside Health Partners,Wholesaler,Odense,Retail
+CUST-019,Lighthouse Pharmacy,Pharmacy,Aalborg,Wholesale
+CUST-020,NordMed Distribution,Hospital,Esbjerg,Healthcare
+CUST-021,Practice Customer 21,Wholesaler,Copenhagen,Retail
+CUST-022,Practice Customer 22,Pharmacy,Aarhus,Wholesale

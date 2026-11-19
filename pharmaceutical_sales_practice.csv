@@ -1,0 +1,101 @@
+﻿Order_ID,Order_Date,Customer_ID,Product,Category,Region,Sales_Channel,Quantity,Unit_Price_DKK,Discount_Pct,Revenue_DKK
+PH-0017,2025-01-02,CUST-009,Ibuprofen 200mg,Anti-inflammatory,Esbjerg,Hospital,85,4.08,0.1,312.12
+PH-0074,2025-01-15,CUST-013,Vitamin D3 1000 IU,Vitamins,Odense,Online,66,4.63,0.05,290.3
+PH-0025,2025-01-17,CUST-011,Paracetamol 500mg,Analgesics,Copenhagen,Hospital,28,3.43,0.0,96.04
+PH-0056,2025-01-23,CUST-014,Atorvastatin 20mg,Cardiovascular,Copenhagen,Hospital,240,9.55,0.15,1948.2
+PH-0007,2025-01-24,CUST-008,Metformin 500mg,Diabetes Care,Odense,Pharmacy,157,7.55,0.0,1185.35
+PH-0028,2025-01-28,CUST-004,Metformin 500mg,Diabetes Care,Copenhagen,Online,118,7.33,0.1,778.45
+PH-0100,2025-01-28,CUST-005,Vitamin D3 1000 IU,Vitamins,Aarhus,Wholesale,28,4.75,0.15,113.05
+PH-0032,2025-01-31,CUST-006,Vitamin D3 1000 IU,Vitamins,Aalborg,Pharmacy,133,4.89,0.0,650.37
+PH-0084,2025-02-05,CUST-017,Metformin 500mg,Diabetes Care,Odense,Pharmacy,146,7.51,0.1,986.81
+PH-0030,2025-02-08,CUST-015,Atorvastatin 20mg,Cardiovascular,Esbjerg,Pharmacy,56,9.9,0.05,526.68
+PH-0014,2025-02-16,CUST-002,Metformin 500mg,Diabetes Care,Copenhagen,Hospital,66,7.37,0.0,486.42
+PH-0031,2025-02-17,CUST-008,Paracetamol 500mg,Analgesics,Aarhus,Online,176,3.71,0.15,555.02
+PH-0065,2025-02-24,CUST-014,Cetirizine 10mg,Antihistamines,Aarhus,Hospital,47,5.44,0.0,255.68
+PH-0016,2025-02-28,CUST-018,Omeprazole 20mg,Gastrointestinal,Odense,Wholesale,151,6.65,0.0,1004.15
+PH-0081,2025-02-28,CUST-006,Metformin 500mg,Diabetes Care,Odense,Pharmacy,52,7.46,0.15,329.73
+PH-0066,2025-03-04,CUST-015,Vitamin D3 1000 IU,Vitamins,Aarhus,Online,22,4.52,0.15,84.52
+PH-0047,2025-03-07,CUST-002,Metformin 500mg,Diabetes Care,Odense,Wholesale,159,7.03,0.15,950.1
+PH-0026,2025-03-09,CUST-019,Omeprazole 20mg,Gastrointestinal,Esbjerg,Online,181,6.26,0.1,1019.75
+PH-0042,2025-03-10,CUST-009,Omeprazole 20mg,Gastrointestinal,Copenhagen,Pharmacy,248,6.86,0.0,1701.28
+PH-0001,2025-03-13,CUST-004,Ibuprofen 200mg,Anti-inflammatory,Esbjerg,Pharmacy,16,4.12,0.05,62.62
+PH-0070,2025-03-19,CUST-008,Metformin 500mg,Diabetes Care,Aalborg,Hospital,238,6.96,0.15,1408.01
+PH-0004,2025-03-21,CUST-007,Amoxicillin 500mg,Antibiotics,Odense,Pharmacy,188,8.7,0.1,1472.04
+PH-0059,2025-03-31,CUST-020,Cetirizine 10mg,Antihistamines,Esbjerg,Wholesale,117,5.29,0.1,557.04
+PH-0049,2025-04-01,CUST-014,Amoxicillin 500mg,Antibiotics,Copenhagen,Hospital,246,9.3,0.0,2287.8
+PH-0027,2025-04-08,CUST-004,Cetirizine 10mg,Antihistamines,Copenhagen,Online,210,5.38,0.1,1016.82
+PH-0029,2025-04-08,CUST-018,Metformin 500mg,Diabetes Care,Aalborg,Hospital,214,7.12,0.0,1523.68
+PH-0094,2025-04-09,CUST-011,Omeprazole 20mg,Gastrointestinal,Copenhagen,Hospital,88,6.27,0.05,524.17
+PH-0060,2025-04-18,CUST-014,Atorvastatin 20mg,Cardiovascular,Esbjerg,Wholesale,150,9.7,0.0,1455.0
+PH-0089,2025-04-19,CUST-012,Vitamin D3 1000 IU,Vitamins,Odense,Wholesale,227,4.48,0.05,966.11
+PH-0051,2025-04-24,CUST-007,Atorvastatin 20mg,Cardiovascular,Aalborg,Wholesale,233,10.4,0.0,2423.2
+PH-0002,2025-04-30,CUST-017,Atorvastatin 20mg,Cardiovascular,Esbjerg,Pharmacy,18,9.43,0.0,169.74
+PH-0036,2025-05-01,CUST-013,Amoxicillin 500mg,Antibiotics,Copenhagen,Hospital,27,8.39,0.15,192.55
+PH-0062,2025-05-01,CUST-010,Omeprazole 20mg,Gastrointestinal,Aarhus,Hospital,141,6.36,0.15,762.25
+PH-0091,2025-05-04,CUST-016,Ibuprofen 200mg,Anti-inflammatory,Aalborg,Online,71,4.26,0.1,272.21
+PH-0087,2025-05-06,CUST-003,Vitamin D3 1000 IU,Vitamins,Odense,Online,121,4.53,0.15,465.91
+PH-0068,2025-05-07,CUST-009,Amoxicillin 500mg,Antibiotics,Esbjerg,Online,200,8.82,0.1,1587.6
+PH-0079,2025-05-07,CUST-007,Ibuprofen 200mg,Anti-inflammatory,Copenhagen,Hospital,209,4.4,0.0,919.6
+PH-0048,2025-05-08,CUST-004,Paracetamol 500mg,Analgesics,Odense,Online,240,3.42,0.05,779.76
+PH-0050,2025-05-08,CUST-009,Metformin 500mg,Diabetes Care,Aarhus,Pharmacy,210,7.64,0.1,1443.96
+PH-0054,2025-05-14,CUST-006,Metformin 500mg,Diabetes Care,Esbjerg,Wholesale,250,7.0,0.0,1750.0
+PH-0045,2025-05-15,CUST-006,Metformin 500mg,Diabetes Care,Aalborg,Online,207,7.49,0.0,1550.43
+PH-0086,2025-05-19,CUST-020,Amoxicillin 500mg,Antibiotics,Esbjerg,Online,197,9.41,0.15,1575.7
+PH-0090,2025-05-22,CUST-018,Omeprazole 20mg,Gastrointestinal,Copenhagen,Hospital,235,6.66,0.15,1330.34
+PH-0053,2025-05-23,CUST-012,Omeprazole 20mg,Gastrointestinal,Esbjerg,Online,231,6.88,0.0,1589.28
+PH-0069,2025-05-27,CUST-008,Cetirizine 10mg,Antihistamines,Odense,Wholesale,80,4.9,0.1,352.8
+PH-0020,2025-06-07,CUST-008,Vitamin D3 1000 IU,Vitamins,Copenhagen,Hospital,14,4.93,0.0,69.02
+PH-0055,2025-06-10,CUST-014,Paracetamol 500mg,Analgesics,Esbjerg,Pharmacy,37,3.52,0.15,110.7
+PH-0058,2025-06-17,CUST-013,Omeprazole 20mg,Gastrointestinal,Odense,Hospital,139,6.63,0.05,875.49
+PH-0057,2025-06-19,CUST-020,Metformin 500mg,Diabetes Care,Odense,Pharmacy,120,7.78,0.0,933.6
+PH-0077,2025-06-22,CUST-013,Atorvastatin 20mg,Cardiovascular,Odense,Online,93,9.89,0.0,919.77
+PH-0043,2025-06-25,CUST-007,Amoxicillin 500mg,Antibiotics,Odense,Online,79,9.0,0.05,675.45
+PH-0005,2025-06-26,CUST-020,Ibuprofen 200mg,Anti-inflammatory,Odense,Pharmacy,107,4.19,0.0,448.33
+PH-0040,2025-06-28,CUST-003,Cetirizine 10mg,Antihistamines,Aarhus,Wholesale,139,4.93,0.05,651.01
+PH-0096,2025-07-04,CUST-006,Ibuprofen 200mg,Anti-inflammatory,Odense,Pharmacy,223,4.15,0.0,925.45
+PH-0085,2025-07-05,CUST-015,Atorvastatin 20mg,Cardiovascular,Aarhus,Online,220,9.44,0.1,1869.12
+PH-0082,2025-07-12,CUST-013,Paracetamol 500mg,Analgesics,Aarhus,Pharmacy,247,3.59,0.05,842.39
+PH-0006,2025-07-13,CUST-003,Vitamin D3 1000 IU,Vitamins,Esbjerg,Wholesale,147,4.95,0.0,727.65
+PH-0015,2025-07-17,CUST-013,Amoxicillin 500mg,Antibiotics,Esbjerg,Online,212,8.99,0.1,1715.29
+PH-0073,2025-07-19,CUST-014,Vitamin D3 1000 IU,Vitamins,Esbjerg,Hospital,11,4.55,0.05,47.55
+PH-0038,2025-07-22,CUST-005,Omeprazole 20mg,Gastrointestinal,Odense,Online,62,6.28,0.05,369.89
+PH-0011,2025-07-25,CUST-009,Paracetamol 500mg,Analgesics,Copenhagen,Hospital,68,3.69,0.0,250.92
+PH-0022,2025-08-05,CUST-007,Amoxicillin 500mg,Antibiotics,Esbjerg,Hospital,77,9.3,0.15,608.69
+PH-0044,2025-08-05,CUST-009,Omeprazole 20mg,Gastrointestinal,Copenhagen,Pharmacy,241,6.16,0.0,1484.56
+PH-0003,2025-08-18,CUST-019,Cetirizine 10mg,Antihistamines,Odense,Pharmacy,193,5.12,0.15,839.94
+PH-0008,2025-08-21,CUST-012,Cetirizine 10mg,Antihistamines,Aarhus,Wholesale,231,5.1,0.0,1178.1
+PH-0076,2025-08-25,CUST-006,Paracetamol 500mg,Analgesics,Copenhagen,Wholesale,31,3.39,0.1,94.58
+PH-0098,2025-08-29,CUST-016,Ibuprofen 200mg,Anti-inflammatory,Aalborg,Wholesale,233,4.3,0.0,1001.9
+PH-0063,2025-09-01,CUST-020,Amoxicillin 500mg,Antibiotics,Copenhagen,Online,16,8.59,0.0,137.44
+PH-0099,2025-09-02,CUST-004,Amoxicillin 500mg,Antibiotics,Copenhagen,Online,23,9.38,0.05,204.95
+PH-0067,2025-09-16,CUST-014,Metformin 500mg,Diabetes Care,Esbjerg,Online,203,7.46,0.1,1362.94
+PH-0018,2025-09-17,CUST-020,Ibuprofen 200mg,Anti-inflammatory,Aarhus,Hospital,232,4.45,0.05,980.78
+PH-0061,2025-09-19,CUST-016,Vitamin D3 1000 IU,Vitamins,Aarhus,Pharmacy,123,4.77,0.1,528.04
+PH-0023,2025-09-22,CUST-015,Omeprazole 20mg,Gastrointestinal,Copenhagen,Hospital,112,6.44,0.05,685.22
+PH-0019,2025-09-29,CUST-001,Metformin 500mg,Diabetes Care,Esbjerg,Wholesale,205,7.4,0.0,1517.0
+PH-0035,2025-09-29,CUST-006,Paracetamol 500mg,Analgesics,Copenhagen,Pharmacy,22,3.54,0.15,66.2
+PH-0021,2025-09-30,CUST-005,Ibuprofen 200mg,Anti-inflammatory,Aarhus,Online,31,4.44,0.1,123.88
+PH-0078,2025-10-04,CUST-002,Omeprazole 20mg,Gastrointestinal,Odense,Hospital,223,6.47,0.0,1442.81
+PH-0071,2025-10-05,CUST-015,Cetirizine 10mg,Antihistamines,Aalborg,Pharmacy,26,5.12,0.1,119.81
+PH-0093,2025-10-09,CUST-011,Vitamin D3 1000 IU,Vitamins,Odense,Online,151,4.58,0.15,587.84
+PH-0024,2025-10-11,CUST-008,Cetirizine 10mg,Antihistamines,Esbjerg,Hospital,26,4.86,0.05,120.04
+PH-0097,2025-10-11,CUST-010,Amoxicillin 500mg,Antibiotics,Aarhus,Online,80,9.42,0.0,753.6
+PH-0080,2025-10-16,CUST-007,Cetirizine 10mg,Antihistamines,Aalborg,Wholesale,42,5.29,0.1,199.96
+PH-0034,2025-10-24,CUST-018,Cetirizine 10mg,Antihistamines,Copenhagen,Wholesale,85,5.49,0.0,466.65
+PH-0037,2025-10-26,CUST-019,Paracetamol 500mg,Analgesics,Esbjerg,Wholesale,168,3.52,0.0,591.36
+PH-0013,2025-10-27,CUST-014,Amoxicillin 500mg,Antibiotics,Esbjerg,Online,73,8.93,0.15,554.11
+PH-0072,2025-10-27,CUST-001,Cetirizine 10mg,Antihistamines,Esbjerg,Online,223,5.1,0.1,1023.57
+PH-0095,2025-10-29,CUST-017,Cetirizine 10mg,Antihistamines,Esbjerg,Wholesale,65,5.03,0.1,294.25
+PH-0083,2025-11-04,CUST-004,Cetirizine 10mg,Antihistamines,Esbjerg,Pharmacy,36,5.41,0.05,185.02
+PH-0039,2025-11-15,CUST-019,Metformin 500mg,Diabetes Care,Copenhagen,Pharmacy,247,6.9,0.0,1704.3
+PH-0075,2025-11-15,CUST-018,Amoxicillin 500mg,Antibiotics,Copenhagen,Online,225,9.36,0.1,1895.4
+PH-0010,2025-11-24,CUST-018,Cetirizine 10mg,Antihistamines,Aarhus,Wholesale,51,5.1,0.1,234.09
+PH-0012,2025-11-26,CUST-015,Metformin 500mg,Diabetes Care,Aarhus,Wholesale,64,7.26,0.1,418.18
+PH-0052,2025-12-04,CUST-007,Omeprazole 20mg,Gastrointestinal,Aalborg,Wholesale,220,6.27,0.0,1379.4
+PH-0088,2025-12-09,CUST-013,Cetirizine 10mg,Antihistamines,Odense,Pharmacy,202,5.22,0.1,949.0
+PH-0009,2025-12-16,CUST-003,Metformin 500mg,Diabetes Care,Esbjerg,Hospital,63,7.55,0.05,451.87
+PH-0046,2025-12-20,CUST-005,Paracetamol 500mg,Analgesics,Esbjerg,Pharmacy,38,3.75,0.0,142.5
+PH-0092,2025-12-21,CUST-008,Paracetamol 500mg,Analgesics,Odense,Wholesale,33,3.43,0.05,107.53
+PH-0033,2025-12-23,CUST-018,Atorvastatin 20mg,Cardiovascular,Aalborg,Hospital,77,9.67,0.1,670.13
+PH-0064,2025-12-23,CUST-013,Atorvastatin 20mg,Cardiovascular,Aalborg,Online,236,9.56,0.15,1917.74
+PH-0041,2025-12-27,CUST-010,Omeprazole 20mg,Gastrointestinal,Esbjerg,Pharmacy,50,6.77,0.1,304.65
